@@ -11,20 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: LOCAAAAAA!
-    text: CSC Spanish Club
+    title: Spanish Club @ Chi Sun College
+    text: Club de Español en Chi Sun College
     button: Sign Up
     buttonlink: "Sign Up"
 
   about:
-    title: "About Us"
-    text: "Sobre Nosotros"
-    body: "The Spanish Society for Natural Language Processing is a non-profit association with the aim of promoting all kinds of activities related to the study of natural language processing."
+    title: "About the Club"
+    text: "Sobre el Club"
+    body: "This is a club for Chi Sun residents to learn Spanish, enjoy cultural events related to Latino/Spanish culture, and meet new friends.\n The club's aim is to be a place for members to relax and have fun, so most of our activities have a relaxed approach to them."
     section: about
 
   portfolio:
     title: "Events"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Eventos."
     section: portfolio
     closebutton: "Close Project"
 
