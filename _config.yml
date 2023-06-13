@@ -18,7 +18,7 @@ url    : "spanish-club.github.io" # the base hostname & protocol for your site, 
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Spanish Club
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : jespigno@connect.hku.hk #this is also the email contact forms will go to
 description: "Spanish Club"
 author     : Jose
 # logo:     #optional, defaults to site title
