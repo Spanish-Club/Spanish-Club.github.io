@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Join Us"
       section: contact
     - title: "Resources"
-      section: resources.md
+      section: Spanish-Club.github.io/resources
 en-US:
   <<: *DEFAULT_EN
 en-CA:
