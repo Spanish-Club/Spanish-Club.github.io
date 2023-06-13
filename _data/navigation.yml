@@ -11,12 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "About"
+    - title: "About the Club"
       section: about
-    - title: "Events aa"
+    - title: "Events"
       section: portfolio
-    - title: "Sign Up"
+    - title: "Join Us"
       section: contact
+    -title: "Resources"
+      section: resources.md
 en-US:
   <<: *DEFAULT_EN
 en-CA:
