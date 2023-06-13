@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Join Us"
       section: contact
-    -title: "Resources"
+    - title: "Resources"
       section: resources.md
 en-US:
   <<: *DEFAULT_EN
